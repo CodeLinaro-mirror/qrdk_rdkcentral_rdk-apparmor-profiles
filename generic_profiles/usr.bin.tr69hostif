@@ -253,5 +253,5 @@ profile tr69hostif /usr/bin/tr69hostif flags=(attach_disconnected, mediate_delet
     /usr/sbin/wpa_cli mrix,
     /usr/sbin/dropbearmulti mrix,
     /usr/sbin/xtables-legacy-multi mrix,
-    /opt/secure/RFC/enable_logchrono mrix,
+    /opt/secure/RFC/disable_logchrono mrix,
 }
